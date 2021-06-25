@@ -213,4 +213,4 @@ _    | \_{}
 ```
 
 ## 4 特殊字符表
-![](https://github.com/nasiyoung/Miscellaneous/blob/main/images/%E5%B8%8C%E8%85%8A%E5%AD%97%E6%AF%8D)
+![](https://github.com/nasiyoung/Miscellaneous/blob/main/images/%E5%B8%8C%E8%85%8A%E5%AD%97%E6%AF%8D.jpg)
